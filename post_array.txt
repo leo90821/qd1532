@@ -1,0 +1,82 @@
+Array
+(
+    [_opt] => hd3gds893
+    [product_no] => 1
+    [product_title] => 1
+    [title] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+        )
+
+    [content] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+        )
+
+    [pImgs] => Array
+        (
+            [0] => Array
+                (
+                    [0] => ./temp/2014110514151812520.jpg
+                )
+
+            [1] => Array
+                (
+                    [0] => ./temp/2014110514151812617.jpg
+                    [1] => ./temp/2014110514151812610.jpg
+                    [2] => ./temp/20141105141518126110.jpg
+                )
+
+            [2] => Array
+                (
+                    [0] => ./temp/2014110514151812704.jpg
+                    [1] => ./temp/20141105141518127010.jpg
+                    [2] => ./temp/2014110514151812706.jpg
+                )
+
+            [3] => Array
+                (
+                    [0] => ./temp/2014110514151812829.jpg
+                    [1] => ./temp/2014110514151812826.jpg
+                    [2] => ./temp/2014110514151812827.jpg
+                )
+
+            [4] => Array
+                (
+                    [0] => ./temp/2014110514151813126.jpg
+                    [1] => ./temp/2014110514151813129.jpg
+                    [2] => ./temp/2014110514151813122.jpg
+                )
+
+            [5] => Array
+                (
+                    [0] => ./temp/2014110514151813533.jpg
+                    [1] => ./temp/2014110514151813531.jpg
+                    [2] => ./temp/2014110514151813536.jpg
+                )
+
+        )
+
+    [desc] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => <b class="youmkt"><b class="youmkt"><b class="youmkt"><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b><b class="youmkt">上传四(生产厂商)</b></b></b></b>
+            [4] => <b class="youmkt"><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><span></span><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><span></span><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><b class="youmkt">上传五(生产基地</b><span></span></b>
+            [5] => 
+        )
+
+)

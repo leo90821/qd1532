@@ -1,0 +1,77 @@
+{
+    "productId": "32532sdfsdaf", 
+    "productTitle": "红星二锅头", 
+    "productContent": [
+        {
+            "11111111111": "aaaaaaaaa"
+        }, 
+        {
+            "222222222222": "bbbbbbbbbbb"
+        }, 
+        {
+            "3333333333333": "cccccccccccc"
+        }, 
+        {
+            "4444444444444": "dddddddddddddddddd"
+        }
+    ], 
+    "productDesc": [
+        {
+            "pic": [
+                "/32532sdfsdaf/pic_0_0.jpg"
+            ]
+        }, 
+        {
+            "desc": ""
+        }, 
+        {
+            "pic": [
+                "/32532sdfsdaf/pic_1_0.jpg", 
+                "/32532sdfsdaf/pic_1_1.jpg"
+            ]
+        }, 
+        {
+            "desc": "hhhhhhhhhhhhhhhhhhhh"
+        }, 
+        {
+            "pic": [
+                "/32532sdfsdaf/pic_2_0.jpg", 
+                "/32532sdfsdaf/pic_2_1.jpg", 
+                "/32532sdfsdaf/pic_2_2.jpg", 
+                "/32532sdfsdaf/pic_2_3.jpg"
+            ]
+        }, 
+        {
+            "desc": "sdfasfdsadfsadfdasf"
+        }, 
+        {
+            "pic": [
+                "/32532sdfsdaf/pic_3_0.jpg"
+            ]
+        }, 
+        {
+            "desc": "asdfasfasdfsadfasd"
+        }, 
+        {
+            "pic": [
+                "/32532sdfsdaf/pic_4_0.jpg", 
+                "/32532sdfsdaf/pic_4_1.jpg", 
+                "/32532sdfsdaf/pic_4_2.jpg", 
+                "/32532sdfsdaf/pic_4_3.jpg"
+            ]
+        }, 
+        {
+            "desc": "sdfsadfsafsafads"
+        }, 
+        {
+            "pic": [
+                "/32532sdfsdaf/pic_5_0.jpg", 
+                "/32532sdfsdaf/pic_5_1.jpg", 
+                "/32532sdfsdaf/pic_5_2.jpg"
+            ]
+        }, 
+        {
+            "desc": "sdafsadfsadfsadfsafasfas"
+        }
+    ]
+}

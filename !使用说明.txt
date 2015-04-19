@@ -1,0 +1,17 @@
+网页生成工具使用说明：
+
+本工具用于生成1532商品移动网页，版权所有，不得用于其他用途！
+
+01.index.php			为生成工具单一入口
+02.temp/				为系统文件目录，存储图片目录
+03.src/					为系统文件目录
+04.public/				为系统文件目录
+05.template_*.php 		为生成页面模板文件
+06.index_opt.php		为异步处理文件
+07.define.php			为根目录配置文件
+08.global.php			为全局控制文件
+09.inc_JSON.php			为JSON配置文件
+10.upload_json.php		为上传方法文件
+11.class_resizeimg.php	为图片压缩类文件
+
+***重要说明！以上文件/文件夹均不得删除！
